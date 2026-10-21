@@ -85,6 +85,7 @@ under the License.
 | **[create-component](create-component/SKILL.md)** | 使用标准化的目录结构搭建新的 OFBiz 插件。 |
 | **[manage-component](manage-component/SKILL.md)** | 管理组件级依赖和 `ofbiz-component.xml` 注册。 |
 | **[coding-standards](coding-standards/SKILL.md)** | 关于整洁代码、注释和 OFBiz 贡献标准的通用指南。 |
+| **[manage-tests](manage-tests/SKILL.md)** | 在 `testdef/` 中定义自动化测试套件，实现实体测试、服务测试和 JUnit 测试，并通过 Gradle 运行。 |
 | **[prepush-readiness](prepush-readiness/SKILL.md)** | 以适配 pre-push 钩子（Checkstyle、CodeNarc）的规范编写变更，加上推送前的编译、XML 校验和针对性测试。 |
 | **[manage-contribution-workflow](manage-contribution-workflow/SKILL.md)** | 将变更从分支推进到可合并 PR 的完整流程：worktree 设置、framework/plugins 仓库配对、预测试数据加载、反向移植以及社区 PR 模板。 |
 
